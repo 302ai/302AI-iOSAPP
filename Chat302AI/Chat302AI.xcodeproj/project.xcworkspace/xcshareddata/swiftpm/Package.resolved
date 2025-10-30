@@ -1,0 +1,168 @@
+{
+  "originHash" : "5330e5291bae3904ce2836a0cfa7c5e3faf64af851a73c9f47d4887c4c9bdb27",
+  "pins" : [
+    {
+      "identity" : "activityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denfun/ActivityIndicatorView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "122de2649a54985188d21443b76a6c265fd263ef"
+      }
+    },
+    {
+      "identity" : "alerttoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/elai950/AlertToast.git",
+      "state" : {
+        "revision" : "b39252eacd159904afd7d718bba0afabb87f2f2f",
+        "version" : "1.3.9"
+      }
+    },
+    {
+      "identity" : "countrypicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SURYAKANTSHARMA/CountryPicker.git",
+      "state" : {
+        "revision" : "31ec71034627563a8f9faa46badbd06762aa7dc3",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "iosmath",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denfun/iosMath.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "90dc42ca71f2d15822ee5762d6dea943d2a31929"
+      }
+    },
+    {
+      "identity" : "navigationview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mijick/NavigationView.git",
+      "state" : {
+        "revision" : "f9e78da74871bd862db320b9a27cbf0e20e85a93",
+        "version" : "1.1.3"
+      }
+    },
+    {
+      "identity" : "networkimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/NetworkImage",
+      "state" : {
+        "revision" : "2849f5323265386e200484b0d0f896e73c3411b9",
+        "version" : "6.0.1"
+      }
+    },
+    {
+      "identity" : "openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denfun/OpenAI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cc3fbe0031f388a93b5648cb6a19ba92caba941e"
+      }
+    },
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/PopupView.git",
+      "state" : {
+        "revision" : "53b9a5ae0e96cdd9ade22cf8b0693291c2aa91b3",
+        "version" : "4.1.7"
+      }
+    },
+    {
+      "identity" : "screenshotableview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RickeyBoy/ScreenshotableView.git",
+      "state" : {
+        "revision" : "4dcc274e518756c9bb6eabc153b2edb51a7bd482",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "splash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/Splash.git",
+      "state" : {
+        "revision" : "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "swift-cmark",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-cmark",
+      "state" : {
+        "revision" : "b97d09472e847a416629f026eceae0e2afcfad65",
+        "version" : "0.7.0"
+      }
+    },
+    {
+      "identity" : "swift-markdown-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/swift-markdown-ui.git",
+      "state" : {
+        "revision" : "5f613358148239d0292c0cef674a3c2314737f9e",
+        "version" : "2.4.1"
+      }
+    },
+    {
+      "identity" : "swiftmarkdownview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SilverMarcs/SwiftMarkdownView",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e1eb0205e523e45e35376574871d1c9e28d8e557"
+      }
+    },
+    {
+      "identity" : "swiftui-image-viewer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SilverMarcs/swiftui-image-viewer",
+      "state" : {
+        "branch" : "main",
+        "revision" : "00abe43a5ac3f25543f5124d5baf8ca4ef8b3d08"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/swiftui-introspect",
+      "state" : {
+        "revision" : "807f73ce09a9b9723f12385e592b4e0aaebd3336",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "swiftui-toasts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sunghyun-k/swiftui-toasts.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bc1224753c894b3d50fcced57632a2372d924852"
+      }
+    },
+    {
+      "identity" : "swiftui-window-overlay",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sunghyun-k/swiftui-window-overlay.git",
+      "state" : {
+        "revision" : "46739300713772a62a3bf31d77f8f23ba9cf61f7",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "wkmarkdownview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/weihas/WKMarkdownView.git",
+      "state" : {
+        "revision" : "a23dcd3340fc7f7846c0244d54feb6008916f2bc",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -1,0 +1,243 @@
+/* 
+  Localizable.strings
+  Chat302AI
+
+  Created by Adswave on 2025/8/1.
+  
+*/
+
+"登录" = "Login";
+"语言设置" = "Language Settings";
+"语言" = "Language";
+"中文" = "Chinese";
+"英语" = "English";
+"日语" = "Japanese";
+"取消" = "Cancel";
+"语言选择" = "Select Language";
+"复制" = "Copy";
+"选择" = "Selection";
+ 
+
+// 登录与注册
+"登录" = "Sign In";
+"邮箱登录" = "Email Login";
+"手机登录" = "Phone Login";
+"邮箱" = "Email";
+"请输入邮箱" = "Enter your email address";
+"手机号码" = "Phone Number";
+"手机号" = "Phone Number";
+"请输入手机号" = "Enter your phone number";
+"请输入密码" = "Enter your password";
+"图形验证码" = "Captcha";
+"图形验证码*" = "Captcha*";
+"请输入验证码" = "Enter the captcha";
+"记住密码" = "Remember Me";
+"忘记密码？" = "Forgot Password?";
+"没有账号？" = "Don’t have an account?";
+"立即注册" = "Sign Up Now";
+"其他登录方式" = "Other Login Methods";
+"验证码错误" = "Incorrect captcha";
+"账号或密码错误" = "Incorrect account or password";
+"邮箱格式不正确" = "Invalid email format";
+"手机号格式不正确" = "Invalid phone number format";
+
+// 注册
+"创建账号" = "Create Account";
+"用户名" = "Username";
+"请输入用户名" = "Enter your username";
+"密码" = "Password";
+"再输入一次密码" = "Confirm Password";
+"两次输入的密码不一致" = "Passwords do not match";
+"获取验证码" = "Get Captcha";
+"重新获取" = "Resend";
+"注册" = "Sign Up";
+"已有账号？" = "Already have an account?";
+"马上登录" = "Sign In Now";
+"其他注册方式" = "Other Registration Methods";
+"发送成功!" = "Sent successfully!";
+"图形验证失败" = "Captcha verification failed";
+"注册成功!" = "Registration successful!";
+"账号已存在" = "Account already exists";
+"密码长度至少6位" = "Password must be at least 6 characters";
+
+// 设置
+"设置" = "Settings";
+"语言设置" = "Language Settings";
+"语言" = "Language";
+"选择语言" = "Select Language";
+"中文" = "Chinese";
+"英语" = "English";
+"日语" = "Japanese";
+"取消" = "Cancel";
+"语言选择" = "Language Selection";
+
+// 主题
+"主题" = "Theme";
+"跟随系统" = "Follow System";
+"浅色模式" = "Light Mode";
+"深色模式" = "Dark Mode";
+"选择主题" = "Select Theme";
+
+// 账户
+"用户名**" = "Username**";
+"302.AI账号" = "302.AI Account";
+"余额" = "Balance";
+"账户余额" = "Account Balance";
+"今日消耗" = "Today's Usage";
+"本月消耗" = "Monthly Usage";
+"历史消耗" = "History";
+"消耗明细" = "Usage Details";
+"消耗总量" = "Usage Total";
+"充值" = "Recharge";
+"账户充值" = "Account Recharge";
+"退出登录" = "Sign Out";
+
+// 功能
+"偏好设置" = "Preferences";
+"默认聊天模型" = "Default Model";
+"标题生成" = "Auto-title";
+"标题生成模型" = "Title Generation Model";
+"选择标题生成的时机" = "When to generate title";
+"自动滚动底部" = "Auto-scroll to bottom";
+"默认使用无痕会话" = "Start private chat by default";
+"开启无痕对话" = "Start Private Chat";
+"关闭无痕对话" = "End Private Chat";
+"无痕会话" = "Private Chat";
+"默认搜索服务" = "Search Service";
+"新的聊天" = "New Chat";
+"新会话" = "New Session";
+"管理" = "Manage";
+"模型管理" = "Models";
+"添加模型" = "Add Model";
+"请输入模型ID" = "Enter model ID";
+"模型ID" = "Model ID";
+"这是模型的真实名称，用于实际发起请求" = "This is the actual model name used for requests.";
+"备注" = "Notes";
+"新API" = "New API";
+"你可以为这个模型设置一个更容易分辨的名字，仅用于展示" = "Set a display name to help identify this model.";
+"模型能力" = "Model Capabilities";
+"推理" = "Reasoning";
+"图像理解" = "Image Understanding";
+"高级设置" = "Advanced Settings";
+
+// 内容库
+"MCP服务" = "MCP Service";
+"档案库" = "Archive";
+"知识库" = "Knowledge Base";
+"资源库" = "Library";
+"暂无资源" = "No resources available";
+
+// 公告与法律
+"公告" = "Announcements";
+"版本信息" = "Version";
+"服务协议" = "Service Agreement";
+"使用条款" = "Terms of Use";
+"隐私协议" = "Privacy Policy";
+"关于" = "About";
+"隐私政策" = "Privacy Policy";
+
+// 操作
+"重命名" = "Rename";
+"多选" = "Select Multiple";
+"收藏" = "Favorite";
+"取消收藏" = "Unfavorite";
+"删除" = "Delete";
+"重命名会话" = "Rename";
+"输入新命名" = "Enter new name";
+"请输入搜索内容" = "Search sessions";
+"复制" = "Copy";
+"重试" = "Retry";
+"编辑" = "Edit";
+"分享" = "Share";
+"链接分享" = "Share Link";
+"生成截图" = "Take a Screenshot";
+"截图" = "Screenshot";
+"预览(已保存至相册)" = "Preview (Saved to Album)";
+
+// 时间
+"今天" = "Today";
+"昨天" = "Yesterday";
+"最近7天" = "Last 7 Days";
+"更早" = "Earlier";
+
+// 会话设置
+"会话标题" = "Conversation Title";
+"参数设置" = "Parameters";
+"模型" = "Model";
+"系统提示词" = "System Prompt";
+"设置系统提示词" = "Set System Prompt";
+"随机性" = "Randomness";
+"更准确" = "More Accurate";
+"更创意" = "More Creative";
+"提示词" = "Prompt";
+"空" = "Empty";
+"自定义" = "Custom";
+"请输入内容" = "Enter content";
+"选择模型" = "Select Model";
+"搜索模型" = "Search Model";
+"当前已是新对话" = "Already a new conversation";
+
+// Picker
+"功能选择" = "Select Function";
+"联网搜索" = "Web Search";
+"深度思考" = "Deep Thinking";
+"思考模式" = "Thinking Mode";
+"选择文件" = "Select File";
+"从档案库选择" = "Choose from Archive";
+"拍照" = "Take Photo";
+"图片" = "Image";
+"附件" = "Attachment";
+
+// 提示与反馈
+"有什么问题尽管问我" = "Ask me anything";
+"AI可能会犯错，请考虑核实重要信息。" = "AI may make mistakes. Please verify important information.";
+"嗨，准备好跟我一起探索世界了吗?" = "Hi, ready to explore the world with me?";
+"帮我们做得更好👍🏼" = "Help us improve 👍";
+"您的每条反馈都会优化AI，感谢推动进步" = "Your feedback helps improve the AI. Thank you!";
+"说说你的建议吧" = "Share your suggestions";
+"提交反馈" = "Submit Feedback";
+"内容质量问题" = "Content Quality Issues";
+"逻辑缺陷" = "Logical Errors";
+"表达不清" = "Unclear Expression";
+"答非所问" = "Irrelevant Answer";
+"补充其他" = "Other Issues";
+"提交成功!" = "Submitted successfully!";
+
+// 其他
+"标题限制20字以内" = "Title must be under 20 characters";
+"选择文本" = "Select Text";
+"每一次会话" = "Each Conversation";
+"第一次会话" = "First Conversation";
+
+
+"密码不能少于8位" = "The password must be no less than 8 characters.";
+"用户已存在" = "User is exists";
+"用户不存在" = "User not exists";
+"通用" = "General";
+"注销账号" = "Cancel account";
+"个人资料" = "Personal Information";
+"注销须知" = "Notice on Cancellation";
+"注销账号后,所有信息将永久消失,\n请谨慎操作" = "After canceling your account, all information will be permanently deleted. \nPlease operate with caution.";
+"确定" = "Confirm";
+"注销账户" = "Account cancellation";
+
+"PTC为302.AI向您提供的用于在302.AI上进行相关消费的代币，1PTC=1美金，约为7人民币。您可以依照购买规则，先购买PTC，然后使用\"PTC\"购买302.AI的产品或服务。PTC一旦购买成功，不接受任何形式的退款。" = "PTC is the token provided by 302.AI to you for related consumption on 302.AI. 1PTC equals 1 US dollar, approximately 7 RMB. You can follow the purchase rules to first purchase PTC and then use \"PTC\" to purchase products or services of 302.AI. Once a PTC purchase is successful, no form of refund will be accepted.";
+"热卖" = "Hot";  
+"特别推荐" = "Recommend";
+"充值说明:" = "Recharge Instructions :";
+
+"《用户充值协议》" = "<<User Recharge Agreement>>";
+"支付即代表阅读并同意" = "Payment means reading and agreeing.";
+"赠送10%" = "Free10%";
+"充值中心" = "Recharge Center";
+"请输入备注名称" = "Enter the note";
+"选择搜索引擎" = "Select a search engine";
+"重命名会话" = "Rename";
+"内容过长无法截图(删除超长内容再操作)" = "The content is too long to take a screenshot (Delete the overly long content and then proceed with the operation)";
+
+
+"广泛通用型" = "Widely universal type";
+"简洁高效型" = "Concise and efficient";
+"深度思考型" = "Deep thinking type";
+"完成" = "Done";
+"语音识别中" = "Voice recognition";
