@@ -571,7 +571,7 @@ struct SettingView: View {
             ) { selectedType in
                 print("确定了金额选择: \(selectedType.description)")
                 
-                let productID = "302.ai.\(selectedType.amount)ptc"
+                let productID = "com.yourproductID"
                 showLoading = true
                 
                 AppPayManager.shared.startPay(proId: productID) { result in
